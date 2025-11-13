@@ -1,0 +1,11 @@
+{
+  "name": "atividade-analise-refatoracao",
+  "version": "1.0.0",
+  "description": "Atividade prática de análise estática e refatoração.",
+  "main": "refactor/app.js",
+  "scripts": {
+    "start": "node refactor/app.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
